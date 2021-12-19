@@ -1,11 +1,11 @@
 # coding=utf-8
 
 # ============================
-#Programa:       HolaMundo
-#Contacto:       Juan Dario Rodas - jdrodas@hotmail.com
+# Programa:       HolaMundo
+# Contacto:       Juan Dario Rodas - jdrodas@hotmail.com
 
-#Propósito:
-#----------
+# Propósito:
+# ----------
 # - Demostrar el funcionamiento básico del Entorno Integrado de Desarrollo (IDE).
 # - Visualizar información en la consola, en forma de cadena de caracteres.
 # - Declarar variables asignando valores string y visualizar su contenido en la consola.
