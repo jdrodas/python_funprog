@@ -25,6 +25,13 @@ print('\nEsta frase se escribe en una línea \ny esta en otra\n')
 # Aqui utilizamos el caracter especial \t para separar en una misma con tabuladores
 print("Primera parte \t Segunda Parte \t Tercera Parte")
 
+# Aqui colocamos un salto de linea
+print()
+
 # Aqui declaramos una variable y le asignamos el valor inicial
-unaFrase = '\nEsta es una frase almacenada en una variable'
+unaFrase = 'Esta es una frase almacenada en una variable'
 print(unaFrase)
+
+# Se pueden combinar varias frases utilizando el operador "+"
+otraFrase = 'Esta es otra frase en otra variable'
+print(unaFrase + "\n" + otraFrase)
